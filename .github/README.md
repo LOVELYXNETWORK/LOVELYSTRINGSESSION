@@ -14,7 +14,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝐒ᴛʀɪɴɢ �
 <p align="center">
 <a href="https://github.com/Sagexdd/StringGenBot/stargazers"><img src="https://img.shields.io/github/stars/Sagexdd/StringGenBot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars"/></a>
 <a href="https://github.com/Sagexdd/StringGenBot/network/members"> <img src="https://img.shields.io/github/forks/Sagexdd/StringGenBot?color=black&logo=github&logoColor=black&style=for-the-badge"/></a>
-<a href="https://github.com/Sagexdd/StringGenBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License"/></a>
+<a href="https://github.com/Sagexdd/StringGenBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="Not Specified"/></a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python"/></a>
 <a href="https://github.com/Sagexdd/StringGenBot/commits/AnonymousX1025"> <img src="https://img.shields.io/github/last-commit/Sagexdd/StringGenBot?color=black&logo=github&logoColor=black&style=for-the-badge"/></a>
 </p>
