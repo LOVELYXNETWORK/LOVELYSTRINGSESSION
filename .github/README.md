@@ -86,7 +86,7 @@ Press `Ctrl+b` and then `d`
 
 - <b>[LOVELY](https://github.com/LOVELYXNETWORK)  ғᴏʀ  [SPEEDY](https://github.com/TeamAloneOp/DarkLighting2008)</b>
 - <b>[GTASH](https://github.com/ANASGTASH)  ғᴏʀ  [ᴘʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram)</b>
-
+ <b>[AKIRA](https://github.com/ashui501) ғᴏʀ idea's and made the repo with his half help
 <b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs]
 ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ sᴛʀɪɴɢ ɢᴇɴ ʙᴏᴛ ᴜsᴇғᴜʟ 🖤</b>
 
